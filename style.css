@@ -7,10 +7,9 @@
 header
 {
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
-	height: 250vh; width: 230vh;
+	height: 100vh;
 	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
+	background-position: center;
 }
 
 .main-nav
@@ -44,6 +43,13 @@ header
 	border: 1px solid white;
 }
 
+.logo img
+{
+	width: 150px;
+	height: auto;
+	float: left;
+}
+
 body
 {
 	font-family: monospace;
@@ -51,7 +57,7 @@ body
 
 .row
 {
-	max-width: 700px;
+	max-width: 1200px;
 	margin: auto;
 }
 
@@ -61,7 +67,7 @@ body
 	width: 1200px;
 	height: 0px;
 	margin-left: 0px;
-	margin-top: 100px;
+	margin-top: 0px;
 }
 
 h1
@@ -70,13 +76,13 @@ h1
 	text-transform: uppercase;
 	font-size: 70px;
 	text-align: center;
-	margin-top: 260px;
+	margin-top: 275px;
 }
 
 .button
 {
 	margin-top: 30px;
-	margin-left: 241px;
+	margin-left: 440px;
 }
 
 .btn
