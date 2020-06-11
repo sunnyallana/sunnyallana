@@ -7,7 +7,7 @@
 header
 {
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
-	height: 200vh; width: 200vh;
+	height: 180vh; width: 130vh;
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center center;
@@ -51,14 +51,14 @@ body
 
 .row
 {
-	max-width: 900px;
+	max-width: 700px;
 	margin: auto;
 }
 
 .hero
 {
 	position: absolute;
-	width: 800px;
+	width: 1200px;
 	height: 0px;
 	margin-left: 0px;
 	margin-top: 100px;
