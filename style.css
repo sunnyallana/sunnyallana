@@ -13,36 +13,6 @@ header
 	background-attachment: fixed;
 }
 
-.main-nav
-{
-	float: right;
-	list-style: none;
-	margin-top: 30px;
-}
-
-.main-nav li
-{
-	display: inline-block;
-}
-
-.main-nav li a
-{
-	color: white;
-	text-decoration: none;
-	padding: 5PX 20PX;
-	font-family: "Roberto", "sans-serif";
-	font-size: 15px;
-}
-
-.main-nav li.active a 
-{
-	border: 1px solid white;
-}
-
-.main-nav a:hover
-{
-	border: 1px solid white;
-}
 
 
 body
@@ -50,11 +20,7 @@ body
 	font-family: monospace;
 }
 
-.row
-{
-	max-width: 1050px;
-	margin: auto;
-}
+
 
 .hero
 {
