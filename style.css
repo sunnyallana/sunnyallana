@@ -6,24 +6,25 @@
 
 header
 {
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
-	height: 1700px; width: 1290px;
-	background-size: cover;
-	background-position: center center;
-	background-attachment: fixed;
-}
-
-
-
-body
+	body
 {
-	font-family: monospace;
+	/* For devices smaller than 400px: */
+
+  background-image: url('background1.jpg');
+
+
+/* For devices 400px and larger: */
+@media only screen and (min-device-width: 400px);
+    background-image: url('background.jpg');
+    	font-family: monospace;
+    	background-size: 100% 100%;
+}
 }
 
 .hero
 {
 	position: absolute;
-	width: 1200px;
+	width: 1308px;
 	height: 0px;
 	margin-left: 0px;
 	margin-top: 0px;
@@ -33,7 +34,7 @@ h1
 {
 	color: white;
 	text-transform: uppercase;
-	font-size: 70px;
+	font-size: 80px;
 	text-align: center;
 	margin-top: 275px;
 }
@@ -41,7 +42,7 @@ h1
 .button
 {
 	margin-top: 30px;
-	margin-left: 440px;
+	margin-left: 460px;
 }
 
 .btn
