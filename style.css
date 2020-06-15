@@ -71,3 +71,9 @@ h1
 	background-color: darkorange;
 	transition: all 0.5s ease-in;
 }
+
+footer
+{
+	text-align: center;
+	text-decoration: none;
+}
