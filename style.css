@@ -6,8 +6,6 @@
 
 header
 {
-	body
-{
 	/* For devices smaller than 400px: */
 
   background-image: url('background1.jpg');
@@ -19,7 +17,7 @@ header
     	font-family: monospace;
     	background-size: 100% 100%;
 }
-}
+
 
 .hero
 {
