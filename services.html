@@ -31,10 +31,19 @@
     <section id="newsletter">
       <div class="container">
         <h1>Subscribe To Our Newsletter</h1>
-        <form>
-          <input type="email" placeholder="Enter Email...">
-          <button type="submit" class="button_1">Subscribe</button>
+        <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdMnDoj2SqpbmmbI_yKlc7mRH-aXBuceBHH5QI5EeE9cVYB9A/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">          
+        <input type="email" placeholder="Enter Email..." name="entry.1070718692" id="entry.1070718692">
+         <button type="submit" class="button_1">Subscribe</button>
         </form>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+        <script src="jquery-3.5.1.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
       </div>
     </section>
 
