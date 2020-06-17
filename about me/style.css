@@ -132,3 +132,7 @@ footer{
   img {
   border-radius: 50%;
  }
+
+.readable {
+  word-spacing: 3px;
+}
