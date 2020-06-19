@@ -76,6 +76,10 @@ transition: .6s;
 .checkbtn{
 display: block;
 }
+	label.logo{
+		font-size: 18px;
+		padding-left: 20px;
+	}
 
 ul{
 	position: fixed;
