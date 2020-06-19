@@ -163,10 +163,11 @@ ul#services li{
 }
 
 footer{
+  border-top:DodgerBlue 3px solid;
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background-color:DodgerBlue;
+  background-color:#35424a;
   text-align: center;
 }
 
