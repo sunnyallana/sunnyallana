@@ -137,3 +137,16 @@ footer{
  .readable {
   word-spacing: 3px;
  }
+
+.textbox {
+
+height: 40px; 
+width: 220px; 
+font-size: 14px; 
+}
+
+.textbox-msg {
+height: 100px; 
+width: 220px; 
+font-size: 14px; 
+}
