@@ -1,4 +1,4 @@
-![GitHubBanner](https://github.com/sunnyallana/sunnyallana/blob/main/gifs/githubBannerGif.gif?raw=true)
+![GitHubBanner](https://github.com/sunnyallana/sunnyallana/blob/main/png/githubBannerPng.png?raw=true)
 
 <h1 align="center"> About Me</h1>
 
