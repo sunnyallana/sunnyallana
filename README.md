@@ -87,6 +87,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyallana&layout=compact&theme=dark" alt="sunnyallana"/></p>
   </div>
 
+---
   # 📈 Contribution Graph  
-  [![Sunny Allana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyallana&theme=react)]
+  [![Sunny Allana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyallana&theme=react)]]
 </div>
