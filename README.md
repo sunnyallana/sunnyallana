@@ -1,7 +1,7 @@
 ![GitHubBanner](https://github.com/sunnyallana/sunnyallana/blob/main/png/githubBannerPng.png?raw=true)
 
 ---
-<h1 align="center"> About Me</h1>
+<h1 align="center">👨🏻‍💻 About Me</h1>
 
 I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in learning **Node.js and Express.js** to further enhance my skills ⚡
 
@@ -11,11 +11,14 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
 
 ---
 <div align="center">
-  <h1 align="center">Let's Learn, Grow, & Connect</h1>
+  <h1 align="center">✨ Let's Learn, Grow, & Connect</h1>
   <div align="center">
     <a  href="https://www.linkedin.com/in/sunnyallana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/sunnyallana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:contact.sunnyallana@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a  href="https://www.instagram.com/imsunnyallana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    
+    
   </div>
   <br/>
 
