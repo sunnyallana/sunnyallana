@@ -8,6 +8,7 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
 > ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
 
 <h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
+
 ---
 <div align="center">
   <h1 align="center">Let's Learn, Grow, & Connect</h1>
@@ -18,6 +19,7 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
   </div>
   <br/>
 
+---
  <div align="center">
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
@@ -57,6 +59,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
   Seeking opportunities to advance web development skills, delve into AI, and contribute to open-source initiatives.
 
+---
   <h1 align="center">💻 Projects</h1>
 
 
@@ -69,7 +72,8 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   | [PersonaVerse]("")  | A console application using **C++** that provides users with insightful descriptions that offer valuable insights into their personalities and assigns them a unique fictional character, enhancing self-awareness and creating a personalized experience |
   | [PsyData]("")  | A console based application using **C**, specifically designed to support clinical psychologists in effectively managing their clients' data. |
   | [Mindful UX]("")  | Explored and incorporated user preferences in web design by conducting surveys at universities like **Szabist, KSBL, and FAST**, with data visualization accomplished using **Power BI** |
-    
+
+  ---
   # ⚙️ GitHub Analytics
     
   <table>
