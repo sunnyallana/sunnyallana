@@ -1,12 +1,14 @@
 ![GitHubBanner](https://github.com/sunnyallana/sunnyallana/blob/main/png/githubBannerPng.png?raw=true)
 
+---
 <h1 align="center"> About Me</h1>
 
 I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in learning **Node.js and Express.js** to further enhance my skills ⚡
 
 > ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
 
-<h4 align = "center">Explorer | Developer | Analyst | Enthusiast</h4>
+<h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
+---
 <div align="center">
   <h1 align="center">Let's Learn, Grow, & Connect</h1>
   <div align="center">
