@@ -62,6 +62,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/> 
   <img alt = "Git" src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git"/>
+  <img alt = "LeetCode" src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   <img alt = "Docker" src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker"/>
   <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
   </p>
