@@ -100,4 +100,10 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 ---
   # 📈 Contribution Graph  
   [![Sunny Allana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyallana&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+  # Spotify Recently Played
+  ![Sunny Allana's Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ym466hoxzkd7ku6gogtsbrmye4&unique={true|1|on|yes}&count=3)
+
+
 </div>
