@@ -5,10 +5,9 @@
 
 I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in learning **Node.js and Express.js** to further enhance my skills ⚡
 
+<br/>
 
 > ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
-
-<br/>
 
 <h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
 
