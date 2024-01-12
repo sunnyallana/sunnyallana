@@ -103,7 +103,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
 ---
   # Spotify Recently Played
-  ![Sunny Allana's Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ym466hoxzkd7ku6gogtsbrmye4&unique={true|1|on|yes}&count=3)
+  ![Sunny Allana's Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31ym466hoxzkd7ku6gogtsbrmye4&unique={true|1|on|yes}&count=3&width=500px)
 
 
 </div>
