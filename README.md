@@ -5,7 +5,11 @@
 
 I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in learning **Node.js and Express.js** to further enhance my skills ⚡
 
+<br/>
+
 > ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
+
+<br/>
 
 <h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
 
@@ -18,8 +22,6 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
     <a href="mailto:contact.sunnyallana@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a  href="https://discordapp.com/users/sunny.allana#6221"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <a  href="https://www.instagram.com/imsunnyallana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    
-    
     
   </div>
   <br/>
@@ -38,9 +40,15 @@ I thrive on challenges and am currently exploring new frontiers by delving into 
 
 If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect with you! Let's collaborate and explore how we can shape the digital and intelligent future together.
 
+<br/>
+
 > ### "In every challenge lies an opportunity to grow, embrace the process, and relish the victories along the way!"
 
+<br/>
+
 **I'm passionate about fostering open-source contributions. Let's join forces and create together!**
+
+<br/>
 
   <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -71,6 +79,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   </p>
 
+<br/>
 
   Seeking opportunities to advance web development skills, delve into AI, and contribute to open-source initiatives.
 
