@@ -9,6 +9,8 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
 
 > ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
 
+<br/>
+
 <h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
 
 <br/>
