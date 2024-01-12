@@ -11,6 +11,8 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
 
 <h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
 
+<br/>
+
 ---
 <div align="center">
   <h1 align="center">✨ Let's Learn, Grow, & Connect</h1>
