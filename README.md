@@ -90,10 +90,12 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
 
   | Project Name      | Description | 
-  | :---:        |    :----   |  
-  | [ProficientPurse]()  | A Budget Allocation Application using **React.js** and **Context API** |
+  | :-----:        |    :----   |
+  | [Sentiment Analyzer]("") | Developed a sentiment analysis web app using **Flask** and integrated **Watson NLP** with **BERT models** for accurate predictions. Ensured code reliability through modular design and unit tests. |
+  | [BookVerse]("") | Developed and maintained an **Express.js** web application for managing book reviews, implementing user registration, authentication, and authorization using **JSON Web Tokens (JWT)**. |  
+  | [ProficientPurse]("")  | A Budget Allocation Application using **React.js** and **Context API** |
   | [Invoice Wizard]("")     | Utilized **PyQt5, Tesseract OCR, and Pillow** libraries to simplify invoice image import, OCR-based data extraction, and convenient CSV export. |
-  | [Theory Bills LLC]("")     | A visually captivating **Wordpress** website designed to optimize bill payment processes and provide essential technical support to users |
+  | [Theory Bills]("")     | A visually captivating **Wordpress** website designed to optimize bill payment processes and provide essential technical support to users |
   | [SmartTrack]("")     | Developed SmartTrack Attendance Management System using **Esp32 DevKit, RFID scanner, and OLED display** for real-time attendance tracking, with a robust web interface powered by **SQL**, **PHP**, **HTML**, and **CSS** for efficient administration and secure data storage. |
   | [PersonaVerse]("")  | A console application using **C++** that provides users with insightful descriptions that offer valuable insights into their personalities and assigns them a unique fictional character, enhancing self-awareness and creating a personalized experience |
   | [PsyData]("")  | A console based application using **C**, specifically designed to support clinical psychologists in effectively managing their clients' data. |
