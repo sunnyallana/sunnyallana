@@ -92,15 +92,14 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
   | Project Name      | Description | 
   | :-----:        |    :----   |
+  | [ConvoNest]("") | Utilized Django framework to develop ConvoNest, incorporating SQLite for data management. Enabled users to create topic-based rooms and communicate with others. Resulted in the creation of a dynamic platform where users can engage in discussions on various topics within dedicated rooms, fostering community interaction and knowledge sharing |
+  | [BeatBounty]("") | Beat-Bounty is a Python script that utilizes the Spotify API and Pytube to allow users to easily download the top 10 songs of any desired artist. |
+  | [DealerTrack Insights]("") | Leveraged Django with SQLite for efficient data management, while integrating Cloudant and IBM Watson API. Deployed using Kubernetes on IBM Cloud for scalable performance. Enhanced user engagement by enabling review submission and viewing functionalities, ensuring accurate sentiment analysis with IBM Watson. |
   | [Sentiment Analyzer]("") | Developed a sentiment analysis web app using **Flask** and integrated **Watson NLP** with **BERT models** for accurate predictions. Ensured code reliability through modular design and unit tests. |
-  | [BookVerse]("") | Developed and maintained an **Express.js** web application for managing book reviews, implementing user registration, authentication, and authorization using **JSON Web Tokens (JWT)**. |  
-  | [ProficientPurse]("")  | A Budget Allocation Application using **React.js** and **Context API** |
   | [Invoice Wizard]("")     | Utilized **PyQt5, Tesseract OCR, and Pillow** libraries to simplify invoice image import, OCR-based data extraction, and convenient CSV export. |
-  | [Theory Bills]("")     | A visually captivating **Wordpress** website designed to optimize bill payment processes and provide essential technical support to users |
   | [SmartTrack]("")     | Developed SmartTrack Attendance Management System using **Esp32 DevKit, RFID scanner, and OLED display** for real-time attendance tracking, with a robust web interface powered by **SQL**, **PHP**, **HTML**, and **CSS** for efficient administration and secure data storage. |
   | [PersonaVerse]("")  | A console application using **C++** that provides users with insightful descriptions that offer valuable insights into their personalities and assigns them a unique fictional character, enhancing self-awareness and creating a personalized experience |
   | [PsyData]("")  | A console based application using **C**, specifically designed to support clinical psychologists in effectively managing their clients' data. |
-  | [Mindful UX]("")  | Explored and incorporated user preferences in web design by conducting surveys at universities like **Szabist, KSBL, and FAST**, with data visualization accomplished using **Power BI** |
 
   ---
   # ⚙️ GitHub Analytics
