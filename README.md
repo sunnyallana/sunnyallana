@@ -29,10 +29,9 @@ I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer 
   <br/>
 
 ---
- <div align="center">
+<div align="center">
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
-
 
 My journey into the realm of technology and web solutions began with a genuine curiosity for how coding and development could reshape online experiences and functionalities. Throughout my academic journey, I have honed my skills in **C, C++, Python, HTML, CSS, JavaScript**, and various web development frameworks, including **Django**. These tools have empowered me to create engaging and responsive websites, bringing ideas to life on the digital frontier.
 
@@ -86,6 +85,31 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
   Seeking opportunities to advance web development skills, delve into AI, and contribute to open-source initiatives.
 
+<br/>
+
+<div align="center">
+  <h1>🧠 Certifications</h1>
+
+  <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw" target="_blank">
+      <img width="130px" height="130px" src="png/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
+  </a>
+  <a href="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ?identity__email=study.sunnyallana%40gmail.com" target="_blank">
+      <img width="122px" height="122px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
+  </a>
+  <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5" target="_blank">
+      <img width="130px" height="130px" src="png/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
+  </a>
+  <a href="https://www.credly.com/badges/0be18a5e-43a3-4b25-a689-7ad630578ff7" target="_blank">
+      <img width="130px" height="130px" src="png/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
+  </a>
+  <a href="https://www.credly.com/badges/ae081eb5-404e-4e5a-8a1f-6f18de7b520e" target="_blank">
+      <img width="130px" height="130px" src="png/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
+  </a>
+</div>
+
+<br/>
+
+
 ---
   <h1 align="center">💻 Projects</h1>
 
@@ -102,6 +126,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   | [PsyData]("")  | A console based application using **C**, specifically designed to support clinical psychologists in effectively managing their clients' data. |
 
   ---
+
   # ⚙️ GitHub Analytics
     
   <table>
