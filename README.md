@@ -91,19 +91,19 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <h1>🧠 Certifications</h1>
 
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
-      <img width="130px" height="130px" src="png/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
+      <img width="123px" height="130px" src="png/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
   </a>
   <a href="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ?identity__email=study.sunnyallana%40gmail.com">
-      <img width="122px" height="122px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
+      <img width="115px" height="122px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
   </a>
   <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5">
-      <img width="130px" height="130px" src="png/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
+      <img width="123px" height="130px" src="png/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
   </a>
   <a href="https://www.credly.com/badges/0be18a5e-43a3-4b25-a689-7ad630578ff7">
-      <img width="130px" height="130px" src="png/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
+      <img width="123px" height="130px" src="png/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
   </a>
   <a href="https://www.credly.com/badges/ae081eb5-404e-4e5a-8a1f-6f18de7b520e">
-      <img width="130px" height="130px" src="png/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
+      <img width="123px" height="130px" src="png/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
   </a>
 </div>
 
