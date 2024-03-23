@@ -3,7 +3,7 @@
 ---
 <h1 align="center">👨🏻‍💻 About Me</h1>
 
-I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in learning **Node.js and Express.js** to further enhance my skills ⚡
+I am **Sunny Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in mastering **Django and learninh React.js** to further enhance my skills ⚡
 
 <br/>
 
