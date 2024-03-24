@@ -112,17 +112,74 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 ---
   <h1 align="center">💻 Projects</h1>
 
+  <table bordercolor="#66b2b2">
 
-  | Project Name      | Description | 
-  | :-----:        |    :----   |
-  | [ConvoNest]("") | Utilized Django framework to develop ConvoNest, incorporating SQLite for data management. Enabled users to create topic-based rooms and communicate with others. Resulted in the creation of a dynamic platform where users can engage in discussions on various topics within dedicated rooms, fostering community interaction and knowledge sharing |
-  | [BeatBounty]("") | Beat-Bounty is a Python script that utilizes the Spotify API and Pytube to allow users to easily download the top 10 songs of any desired artist. |
-  | [DealerTrack Insights]("") | Leveraged Django with SQLite for efficient data management, while integrating Cloudant and IBM Watson API. Deployed using Kubernetes on IBM Cloud for scalable performance. Enhanced user engagement by enabling review submission and viewing functionalities, ensuring accurate sentiment analysis with IBM Watson. |
-  | [Sentiment Analyzer]("") | Developed a sentiment analysis web app using **Flask** and integrated **Watson NLP** with **BERT models** for accurate predictions. Ensured code reliability through modular design and unit tests. |
-  | [Invoice Wizard]("")     | Utilized **PyQt5, Tesseract OCR, and Pillow** libraries to simplify invoice image import, OCR-based data extraction, and convenient CSV export. |
-  | [SmartTrack]("")     | Developed SmartTrack Attendance Management System using **Esp32 DevKit, RFID scanner, and OLED display** for real-time attendance tracking, with a robust web interface powered by **SQL**, **PHP**, **HTML**, and **CSS** for efficient administration and secure data storage. |
-  | [PersonaVerse]("")  | A console application using **C++** that provides users with insightful descriptions that offer valuable insights into their personalities and assigns them a unique fictional character, enhancing self-awareness and creating a personalized experience |
-  | [PsyData]("")  | A console based application using **C**, specifically designed to support clinical psychologists in effectively managing their clients' data. |
+<tr>
+  <td width="50%" valign="top">
+      <h3 align="center">ConvoNest</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana/convo-nest">
+            <img src="png/convo-nest.png" width="100%" alt="Topic-based Rooms App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana/convo-nest" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a> 
+        </p>
+        <p>Utilized <strong>Django framework</strong> to develop ConvoNest, incorporating <strong>SQLite</strong> for data management. Enabled users to create topic-based rooms and communicate with others. Resulted in the creation of a dynamic platform where users can engage in discussions on various topics within dedicated rooms, fostering community interaction and knowledge sharing</p>
+</td>
+    <td width="50%" valign="top">
+      <h3 align="center">DealerTrack Insights</h3>
+        <br />
+      <a target="_blank" href="https://github.com/sunnyallana/dealerTrack-insights">
+            <img src="png/dealerTrack-insights.png" width="100%"  alt="Sentiment Analysis of Reviews"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/sunnyallana/dealerTrack-insights" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Leveraged <strong>Django</strong> with <strong>SQLite</strong> for efficient data management, while integrating <strong>Cloudant</strong> and <strong>IBM Watson API</strong>. Deployed using <strong>Kubernetes</strong> on <strong>IBM Cloud</strong> for scalable performance. Enhanced user engagement by enabling review submission and viewing functionalities, ensuring accurate sentiment analysis with <strong>IBM Watson</strong>.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Invoice Wizard</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana/invoice-wizard">
+            <img src="png/invoice-wizard.png" width="100%" alt="OCR with Python"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/sunnyallana/invoice-wizard" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p>The Invoice Wizard is a desktop application implemented in <strong>Python</strong> that makes use of <strong>PyQt5</strong>, <strong>Pillow</strong>, and <strong>Pytesseract</strong> libraries allowing users to import invoice images, utilize Optical Character Recognition (OCR) to extract relevant information, and export the extracted data into a CSV file.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">SmartTrack Attendance Management</h3>
+        <br />
+      <a target="_blank" href="https://github.com/sunnyallana/smartTrack">
+            <img src="png/smartTrack.png" height="25%" width="100%"  alt="SmartTrack Attendance Manager"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+        <a href="https://github.com/sunnyallana/smartTrack" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+        <p>Developed SmartTrack Attendance Management System using <strong>Esp32 DevKit</strong>, <strong>RFID scanner</strong>, and <strong>OLED display</strong> for real-time attendance tracking, with a robust web interface powered by <strong>SQL</strong>, <strong>PHP</strong>, <strong>HTML</strong>, and <strong>CSS</strong> for efficient administration and secure data storage.</p>
+    </td>
+  </tr>
+</table>
 
   ---
 
