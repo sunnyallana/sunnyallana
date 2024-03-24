@@ -167,7 +167,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">SmartTrack Attendance Management</h3>
         <br />
       <a target="_blank" href="https://github.com/sunnyallana/smartTrack">
-            <img src="png/smartTrack.png" height="25%" width="100%"  alt="SmartTrack Attendance Manager"/>
+            <img src="png/smartTrack.png" width="100%"  alt="SmartTrack Attendance Manager"/>
         </a>
         <br />
         <p align="center">
