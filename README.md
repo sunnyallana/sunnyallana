@@ -170,7 +170,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <img width="115px" height="115px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
   </a>
   <a href="https://www.credly.com/badges/d14372c6-5828-4eab-8600-2c2cc01be06f">
-      <img width="123px" height="123px" src="png/MicrosoftAzureDBForMySQL_Badge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
+      <img height="123px" src="png/MicrosoftAzureDBForMySQL_Badge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5">
       <img width="123px" height="123px" src="png/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
