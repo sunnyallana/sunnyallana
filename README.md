@@ -161,7 +161,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   ---
 
 <div align="center">
-  <h1>🧠 Certifications</h1>
+  <h1>🥇 Some Of My Badges</h1>
 
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
       <img width="123px" height="123px" src="png/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
