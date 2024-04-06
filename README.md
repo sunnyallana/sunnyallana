@@ -96,7 +96,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">ConvoNest</h3>
         <br />
         <a target="_blank" href="https://github.com/sunnyallana/convo-nest">
-            <img src="png/convo-nest.png" width="100%" alt="Topic-based Rooms App"/>
+            <img src="png/projects/convo-nest.png" width="100%" alt="Topic-based Rooms App"/>
         </a>
         <br />
         <p align="center">
@@ -111,7 +111,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">DealerTrack Insights</h3>
         <br />
       <a target="_blank" href="https://github.com/sunnyallana/dealerTrack-insights">
-            <img src="png/dealerTrack-insights.png" width="100%"  alt="Sentiment Analysis of Reviews"/>
+            <img src="png/projects/dealerTrack-insights.png" width="100%"  alt="Sentiment Analysis of Reviews"/>
         </a>
         <br />
         <p align="center">
@@ -129,7 +129,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">Invoice Wizard</h3>
         <br />
         <a target="_blank" href="https://github.com/sunnyallana/invoice-wizard">
-            <img src="png/invoice-wizard.png" width="100%" alt="OCR with Python"/>
+            <img src="png/projects/invoice-wizard.png" width="100%" alt="OCR with Python"/>
         </a>
         <br />
         <p align="center">
@@ -144,7 +144,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">SmartTrack Attendance Management</h3>
         <br />
       <a target="_blank" href="https://github.com/sunnyallana/smartTrack">
-            <img src="png/smartTrack.png" width="100%"  alt="SmartTrack Attendance Manager"/>
+            <img src="png/projects/smartTrack.png" width="100%"  alt="SmartTrack Attendance Manager"/>
         </a>
         <br />
         <p align="center">
@@ -164,22 +164,25 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <h1>🥇 Some Of My Badges</h1>
 
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
-      <img width="123px" height="123px" src="png/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
+      <img width="123px" height="123px" src="png/badges/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
   </a>
   <a href="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ?identity__email=study.sunnyallana%40gmail.com">
       <img width="115px" height="115px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
   </a>
+  <a href="https://www.credly.com/badges/df0dba9b-e56d-482a-a652-255d8be6fd8b">
+      <img height="123px" src="png/badges//MicrosoftAzureDBForMySQL_EmeraldBadge.png" alt="Microsoft Azure DB For MySQL Emerald Contributor Badge">
+  </a>
   <a href="https://www.credly.com/badges/d14372c6-5828-4eab-8600-2c2cc01be06f">
-      <img height="123px" src="png/MicrosoftAzureDBForMySQL_Badge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
+      <img height="123px" src="png/badges/MicrosoftAzureDBForMySQL_GoldBadge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5">
-      <img width="123px" height="123px" src="png/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
+      <img width="123px" height="123px" src="png/badges/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
   </a>
   <a href="https://www.credly.com/badges/0be18a5e-43a3-4b25-a689-7ad630578ff7">
-      <img width="123px" height="123px" src="png/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
+      <img width="123px" height="123px" src="png/badges/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
   </a>
   <a href="https://www.credly.com/badges/ae081eb5-404e-4e5a-8a1f-6f18de7b520e">
-      <img width="123px" height="123px" src="png/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
+      <img width="123px" height="123px" src="png/badges/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
   </a>
 </div>
 
