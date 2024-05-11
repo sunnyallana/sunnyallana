@@ -165,8 +165,11 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
       <img width="123px" height="123px" src="png/badges/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
   </a>
+  <a href="https://api.badgr.io/public/assertions/njHKqJJISj2qeCSh7LrpCQ?identity__email=study.sunnyallana%40gmail.com">
+      <img width="115px" height="115px" src="https://api.badgr.io/public/assertions/njHKqJJISj2qeCSh7LrpCQ/image" alt="Postman Student Leader Badge">
+  </a>
   <a href="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ?identity__email=study.sunnyallana%40gmail.com">
-      <img width="115px" height="115px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="API Student Expert Badge">
+      <img width="115px" height="115px" src="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ/image" alt="Postman Student Expert Badge">
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SunnyShabanAli-6232/9FXE4M6U?sharingId=3082081C59931CEC">
       <img width="123px" height="123px" src="png/badges/Microsoft_AiSkillsChallenge_Badge.png" alt="Microsoft Ai Skills Challeneg">
