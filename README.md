@@ -162,6 +162,11 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
 <div align="center">
   <h1>🥇 Some Of My Badges</h1>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SunnyShabanAli-6232/A3737F7CB799EA99?sharingId=3082081C59931CEC">
+      <img width="123px" height="123px" src="png/badges/microsoft-certified-fundamentals-badge.png" alt="Microsoft Certified AI Fundamentals">
+  </a>
+  
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
       <img width="123px" height="123px" src="png/badges/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
   </a>
