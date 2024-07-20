@@ -163,6 +163,11 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 <div align="center">
   <h1>🥇 Some Of My Badges</h1>
 
+  <a href="https://www.credly.com/badges/9cbee0d2-3508-4e38-a488-99538bf4e471/public_url">
+      <img width="123px" height="123px" src="png/badges/GitHub_foundations.png" alt="GitHub Foundations">
+  </a>
+  
+  
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/SunnyShabanAli-6232/A3737F7CB799EA99?sharingId=3082081C59931CEC">
       <img width="123px" height="123px" src="png/badges/microsoft-certified-fundamentals-badge.png" alt="Microsoft Certified AI Fundamentals">
   </a>
