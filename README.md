@@ -91,6 +91,40 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 
   <table bordercolor="#66b2b2">
 
+
+<tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Coders Cup - ACM Event Registration</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana/coders-cup">
+            <img src="png/projects/coders-cup-registration.png" width="100%" alt="Coders Cup Registration App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana/acm-nuces-web-app" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a> 
+        </p>
+        <p>Developed a high-performance event registration application for ACM, achieving remarkable success with over 2,500 users and 900 registrations. Implemented robust security features including Google Captcha V2, Axios protection against XSS and CSRF, and deployed on Azure with a CI/CD pipeline for optimal scalability and performance.</p>
+  </td>
+  <td width="50%" valign="top">
+      <h3 align="center">Divide & Conquer Algorithms Visualiser</h3>
+        <br />
+      <a target="_blank" href="https://github.com/sunnyallana/algorithm-visualizer">
+            <img src="png/projects/algorithms-visualizer.png" width="100%"  alt="Algorithms Visualization Tool"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/sunnyallana/algorithms-visualizer" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Created an interactive Algorithm Visualizer to explore complex algorithms like Integer Multiplication and Closest Pair of Points. Developed step-by-step animations with customizable zoom and pan features, enabling comprehensive visual analysis of algorithmic processes.</p>
+    </td>
+  </tr>
+
 <tr>
   <td width="50%" valign="top">
       <h3 align="center">ConvoNest</h3>
