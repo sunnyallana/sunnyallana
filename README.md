@@ -96,7 +96,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
   <td width="50%" valign="top">
       <h3 align="center">Coders Cup - ACM Event Registration</h3>
         <br />
-        <a target="_blank" href="https://github.com/sunnyallana/coders-cup">
+        <a target="_blank" href="https://github.com/sunnyallana/acm-nuces-web-app">
             <img src="png/projects/coders-cup-registration.png" width="100%" alt="Coders Cup Registration App"/>
         </a>
         <br />
@@ -117,7 +117,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/sunnyallana/algorithms-visualizer" target="_blank">
+  <a href="https://github.com/sunnyallana/algorithm-visualizer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
