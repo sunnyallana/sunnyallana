@@ -112,7 +112,7 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
       <h3 align="center">Divide & Conquer Algorithms Visualiser</h3>
         <br />
       <a target="_blank" href="https://github.com/sunnyallana/algorithm-visualizer">
-            <img src="png/projects/algorithms-visualizer.png" width="100%"  alt="Algorithms Visualization Tool"/>
+            <img src="png/projects/algorithm-visualizer.png" width="100%"  alt="Algorithms Visualization Tool"/>
         </a>
         <br />
         <p align="center">
