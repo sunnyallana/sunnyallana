@@ -3,7 +3,7 @@
 ---
 <h1 align="center">👨🏻‍💻 About Me</h1>
 
-I am **Sunny Shaban Ali Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in mastering **Django** and learning **Next.js** to further enhance my skills ⚡
+I am **Sunny Shaban Ali Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in mastering **MERN & AI** and learning **Next.js** to further enhance my skills ⚡
 
 <br/>
 
@@ -37,17 +37,16 @@ My journey into the realm of technology and web solutions began with a genuine c
 
 Motivated by a passion for continuous learning, I am also expanding my expertise in back-end technologies such as **Node.js and Express.js**. This allows me to build robust and scalable web applications, contributing to a seamless user experience. Additionally, my fascination with Artificial Intelligence has led me to explore machine learning concepts and frameworks, adding a layer of intelligence to my web development projects.
 
-I thrive on challenges and am currently exploring new frontiers by delving into the world of cloud technologies, aiming to leverage platforms like **AWS** and **Azure** for enhanced scalability and efficiency.
-
 If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect with you! Let's collaborate and explore how we can shape the digital and intelligent future together.
 
-<br/>
-
-> ### "In every challenge lies an opportunity to grow, embrace the process, and relish the victories along the way!"
 
 <br/>
 
-**I'm passionate about fostering open-source contributions. Let's join forces and create together!**
+**I'm passionate about fostering open-source contributions. Let's create something awesome together!**
+
+***Arch*** with ***Hyprland*** is my daily
+
+![2025-02-02_22-42-53](https://github.com/user-attachments/assets/7b432152-cd45-48d1-930d-4e987e53e3bb)![2025-02-03_20-04-32](https://github.com/user-attachments/assets/b15ee95f-d828-45e7-86f6-fe3b75aa014e)
 
 <br/>
 
