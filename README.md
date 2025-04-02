@@ -3,15 +3,13 @@
 ---
 <h1 align="center">👨🏻‍💻 About Me</h1>
 
-I am **Sunny Shaban Ali Allana**, a sophomore pursuing a **Bachelor of Science in Computer Science (BSCS)** at FAST NUCES, Karachi. Enthusiastic about **Full-Stack Web Development, Data Analytics, and Artificial Intelligence**, I'm currently immersed in mastering **MERN & AI** and learning **Next.js** to further enhance my skills ⚡
+Sunny Shaban Ali Allana is a junior pursuing a **Bachelor of Science in Computer Science (BSCS)** at **FAST NUCES, Karachi**, with a keen focus on **Software Engineering**. His technical repertoire spans **Next.js, MERN Stack, Rust, C/C++, and Python**, with hands-on experience across freelance, open-source, academic, and self-initiated projects. 
 
 <br/>
 
-> ### I am deeply committed to the journey of <strong>continuous learning</strong>, the art of <strong>innovative creation</strong>, and the joy of <strong>meaningful contribution</strong> to impactful real-world projects
+> ### Currently, he is deepening his expertise in **Rust** through practical implementations.
 
 <br/>
-
-<h3 align = "center">Explorer | Developer | Analyst | Enthusiast</h3>
 
 <br/>
 
@@ -33,16 +31,16 @@ I am **Sunny Shaban Ali Allana**, a sophomore pursuing a **Bachelor of Science i
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
 
-My journey into the realm of technology and web solutions began with a genuine curiosity for how coding and development could reshape online experiences and functionalities. Throughout my academic journey, I have honed my skills in **C, C++, Python, HTML, CSS, JavaScript**, and various web development frameworks, including **Django**. These tools have empowered me to create engaging and responsive websites, bringing ideas to life on the digital frontier.
+Beyond conventional development, Sunny thrives in **Computer Vision, Web Development, and Reverse Engineering**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** (including credentials from **Microsoft, MongoDB, Postman, and GitHub**) and actively contributes to the tech community as:
 
-Motivated by a passion for continuous learning, I am also expanding my expertise in back-end technologies such as **Node.js and Express.js**. This allows me to build robust and scalable web applications, contributing to a seamless user experience. Additionally, my fascination with Artificial Intelligence has led me to explore machine learning concepts and frameworks, adding a layer of intelligence to my web development projects.
+- **Emerald Contributor** for Microsoft Azure DB for MySQL
+- **Subject Matter Expert (SME)** for MongoDB, reviewing certification content  
+- **Postman Student Leader**, championing API literacy
 
-If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect with you! Let's collaborate and explore how we can shape the digital and intelligent future together.
 
+Driven by curiosity and impact, Sunny embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
 
 <br/>
-
-**I'm passionate about fostering open-source contributions. Let's create something awesome together!**
 
 ***Arch*** with ***Hyprland*** is my daily
 
