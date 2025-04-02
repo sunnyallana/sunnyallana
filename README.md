@@ -22,9 +22,10 @@ Sunny Shaban Ali Allana is a junior pursuing a **Bachelor of Science in Computer
     <a  href="https://www.instagram.com/imsunnyallana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     
   </div>
-  <br/>
-
 ---
+
+<br/>
+
 <div align="center">
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
