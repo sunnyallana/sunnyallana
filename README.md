@@ -11,8 +11,6 @@ Sunny Shaban Ali Allana is a junior pursuing a **Bachelor of Science in Computer
 
 <br/>
 
-<br/>
-
 ---
 <div align="center">
   <h1 align="center">✨ Let's Learn, Grow, & Connect</h1>
@@ -31,7 +29,7 @@ Sunny Shaban Ali Allana is a junior pursuing a **Bachelor of Science in Computer
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
 
-Beyond conventional development, Sunny thrives in **Networking, Reverse Engineering, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
+Beyond conventional development, Sunny thrives in **Computer Vision, Networking, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
 
 As an **Emerald Contributor** for Microsoft Azure DB for MySQL, **Subject Matter Expert (SME)** for MongoDB reviewing certification content, and **Postman Student Leader** championing API literacy, Sunny actively shapes the tech ecosystem. Driven by curiosity and impact, he embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
 
