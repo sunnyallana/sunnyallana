@@ -31,18 +31,16 @@ Sunny Shaban Ali Allana is a junior pursuing a **Bachelor of Science in Computer
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
 
-Beyond conventional development, Sunny thrives in **Computer Vision, Web Development, and Reverse Engineering**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** (including credentials from **Microsoft, MongoDB, Postman, and GitHub**) and actively contributes to the tech community as:
+Beyond conventional development, Sunny thrives in **Networking, Reverse Engineering, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
 
-- **Emerald Contributor** for Microsoft Azure DB for MySQL
-- **Subject Matter Expert (SME)** for MongoDB, reviewing certification content  
-- **Postman Student Leader**, championing API literacy
+As an **Emerald Contributor** for Microsoft Azure DB for MySQL, **Subject Matter Expert (SME)** for MongoDB reviewing certification content, and **Postman Student Leader** championing API literacy, Sunny actively shapes the tech ecosystem. Driven by curiosity and impact, he embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
 
 
 Driven by curiosity and impact, Sunny embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
 
 <br/>
 
-***Arch*** with ***Hyprland*** is my daily
+He uses ***Arch*** btw.
 
 ![2025-02-02_22-42-53](https://github.com/user-attachments/assets/7b432152-cd45-48d1-930d-4e987e53e3bb)![2025-02-03_20-04-32](https://github.com/user-attachments/assets/b15ee95f-d828-45e7-86f6-fe3b75aa014e)
 
