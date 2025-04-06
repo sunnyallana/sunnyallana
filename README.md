@@ -3,7 +3,7 @@
 ---
 <h1 align="center">👨🏻‍💻 About Me</h1>
 
-Sunny Shaban Ali is a junior pursuing a **Bachelor of Science in Computer Science (BSCS)** at **FAST NUCES, Karachi**, with a keen focus on **Software Engineering**. His technical repertoire spans **Next.js, MERN Stack, Rust, C/C++, and Python**, with hands-on experience across freelance, open-source, academic, and self-initiated projects. 
+Sunny Shaban Ali is a junior pursuing a **Bachelor of Science in Computer Science (BSCS)** at **FAST NUCES, Karachi**, with a keen focus on **Software Engineering**. His technical repertoire spans **Rust, C/C++, Python, Next.js, and MERN Stack** with hands-on experience across freelance, open-source, academic, and self-initiated projects. 
 
 <br/>
 
