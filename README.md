@@ -42,6 +42,7 @@ Driven by curiosity and impact, Sunny embraces collaborative opportunities to bu
 <br/>
 
 He uses ***Arch*** btw.
+![sunny-shaban-ali-arch-linux](https://github.com/user-attachments/assets/e5106de3-7a4a-4181-9594-ff952be19d69)
 
 ![2025-02-02_22-42-53](https://github.com/user-attachments/assets/7b432152-cd45-48d1-930d-4e987e53e3bb)![2025-02-03_20-04-32](https://github.com/user-attachments/assets/b15ee95f-d828-45e7-86f6-fe3b75aa014e)
 
