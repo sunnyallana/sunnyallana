@@ -216,10 +216,10 @@ He uses ***Arch*** btw.
       <img width="123px" height="123px" src="png/badges/Microsoft_AiSkillsChallenge_Badge.png" alt="Microsoft Ai Skills Challeneg">
   </a>
   <a href="https://www.credly.com/badges/df0dba9b-e56d-482a-a652-255d8be6fd8b">
-      <img height="123px" src="png/badges//MicrosoftAzureDBForMySQL_EmeraldBadge.png" alt="Microsoft Azure DB For MySQL Emerald Contributor Badge">
+      <img width="123px" height="123px" src="png/badges//MicrosoftAzureDBForMySQL_EmeraldBadge.png" alt="Microsoft Azure DB For MySQL Emerald Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/d14372c6-5828-4eab-8600-2c2cc01be06f">
-      <img height="123px" src="png/badges/MicrosoftAzureDBForMySQL_GoldBadge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
+      <img width="123px" height="123px" src="png/badges/MicrosoftAzureDBForMySQL_GoldBadge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5">
       <img width="123px" height="123px" src="png/badges/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
