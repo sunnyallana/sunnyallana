@@ -199,7 +199,7 @@ He uses ***Arch*** btw.
       <img width="123px" height="123px" src="png/badges/GitHub_foundations.png" alt="GitHub Foundations">
   </a>
   
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SunnyShabanAli-6232/A3737F7CB799EA99?sharingId=3082081C59931CEC">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/sunny-shaban-ali/A3737F7CB799EA99?sharingId=3082081C59931CEC">
       <img width="123px" height="123px" src="png/badges/microsoft-certified-fundamentals-badge.png" alt="Microsoft Certified AI Fundamentals">
   </a>
   
