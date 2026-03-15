@@ -195,6 +195,10 @@ He uses ***Arch*** btw.
 <div align="center">
   <h1>🥇 Some Of My Badges</h1>
 
+  <a href="https://www.credly.com/badges/f3d58f4b-267e-43d1-b028-f2895456b5bc/public_url">
+      <img width="123px" height="123px" src="png/badges/quantum_information_basics.png" alt="IBM Quantum Basics">
+  </a>
+
   <a href="https://www.credly.com/badges/9cbee0d2-3508-4e38-a488-99538bf4e471/public_url">
       <img width="123px" height="123px" src="png/badges/GitHub_foundations.png" alt="GitHub Foundations">
   </a>
