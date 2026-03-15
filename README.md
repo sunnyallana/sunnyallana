@@ -32,7 +32,7 @@ Sunny Shaban Ali is a **Bachelor of Science in Computer Science (BSCS)** senior 
   <h1>🛠 Technical Skills</h1>
     <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
 
-Beyond conventional development, Sunny thrives in **Computer Vision, Networking, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
+Beyond conventional development, Sunny thrives in **Quantum Computing, Computer Vision, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
 
 As an **Emerald Contributor** for Microsoft Azure DB for MySQL, **Subject Matter Expert (SME)** for MongoDB reviewing certification content, and **Postman Student Leader** championing API literacy, Sunny actively shapes the tech ecosystem. Driven by curiosity and impact, he embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
 
