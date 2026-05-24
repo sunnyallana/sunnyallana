@@ -89,10 +89,93 @@ He uses ***Arch*** btw.
 
   <table bordercolor="#66b2b2">
 
+<tr>
+  <td colspan="2" valign="top">
+      <h3 align="center">Agentic Multi-Modal Triage of Citizen Flood Reports at Scale · Final Year Project</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana">
+            <img src="png/projects/fyp-cvfd-dataset.jpg" width="100%" alt="Agentic Multi-Modal Triage of Citizen Flood Reports"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p>Constructed and released the <strong>Close-View Flood Dataset (CVFD)</strong> on Kaggle: 7,855 images with pixel-wise semantic segmentation masks across 3 operationally motivated rescue classes, with inter-annotator agreement of Cohen's κ = 0.81. Benchmarked 7 vision architectures on CVFD and identified fine-tuned <strong>DINOv3</strong> as optimal at <strong>98.84% accuracy (±0.08)</strong> with 21.6M parameters, matching Swin Transformer at one-quarter the parameter count. Built an agentic triage pipeline fusing a CV Agent (DINOv3 + SAM 3) with a zero-shot multilingual LM Agent into a composite priority scorer, validated via Spearman's ρ and Cohen's κ.</p>
+  </td>
+</tr>
 
 <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Coders Cup - ACM Event Registration</h3>
+      <h3 align="center">LineSentry · Industrial IoT at Dawlance</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana">
+            <img src="png/projects/linesentry-dawlance.jpg" width="100%" alt="LineSentry Industrial Analytics Platform"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p>Real-time analytics platform monitoring <strong>OEE</strong>, <strong>MTTR</strong>, and <strong>MTBF</strong> across factory machinery via <strong>Chart.js</strong> dashboards. Ingests live PLC signals through <strong>Raspberry Pi</strong> (<strong>S7 protocol in Rust</strong>) and aggregates via <strong>MongoDB</strong> pipelines, with drag-and-drop department layouts, intelligent breakdown alerts, and automated email-based analytics reporting. Replaced legacy SAP and a €60K vendor solution at Dawlance.</p>
+  </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Trainiac · Agentic AI Fitness at MazikGlobal</h3>
+        <br />
+      <a target="_blank" href="https://github.com/sunnyallana">
+            <img src="png/projects/trainiac-mazikglobal.jpg" width="100%"  alt="Trainiac AI Fitness Platform"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/sunnyallana" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>AI fitness platform anchored by a modular <strong>LangChain</strong> tool-calling agent (mood tracking, RAG-based Q&A, report generation, profile updates) with CNN-based real-time posture detection in <strong>TensorFlow</strong> at <strong>94% accuracy</strong>. Video-based workout-plan generation via <strong>FastAPI</strong> and a <strong>React</strong> progress dashboard; MongoDB-stored evolving user summaries cut chatbot response latency on repeat interactions.</p>
+    </td>
+  </tr>
+
+<tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Jild · AI Skincare Analysis · HackOps'25</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana">
+            <img src="png/projects/jild-skincare.jpg" width="100%" alt="Jild AI Skincare Analyzer"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>1st Runner-Up at HackOps'25</strong> for an AI skincare analyzer detecting acne and dark circles at <strong>83.8% mAP@50</strong> on a ~2k-image dataset, returning severity scores and matched product/routine recommendations. <strong>React + Tailwind + MUI</strong> frontend on Vercel with a Dockerized <strong>Flask</strong> inference service and <strong>Supabase</strong>, IaC via <strong>Terraform</strong>; <strong>GitHub Actions CI/CD</strong> with SonarCloud, GitGuardian, and Dependabot held critical vulnerabilities at zero through release.</p>
+  </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hyprland Starter · Open-Source · 880+ ★</h3>
+        <br />
+      <a target="_blank" href="https://github.com/mylinuxforwork/hyprland-starter">
+            <img src="png/projects/mylinuxforwork-hyprland-starter.jpg" width="100%"  alt="ML4W Hyprland Starter Contribution"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/mylinuxforwork/hyprland-starter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Contributed an open-source screenshot tool to <strong>ML4W Hyprland Starter</strong>, a popular Arch Linux desktop project (<strong>880+ GitHub stars</strong>); supports region, fullscreen, interactive, clipboard, and color-picker capture, all triggered via Print Screen shortcuts. Merged 8 keyboard shortcuts (volume, brightness, mute, microphone, WiFi, screen refresh) and a lockscreen display fix for 1920×1080 monitors, across <strong>2 pull requests upstream</strong>.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Coders Cup · ACM Event Registration</h3>
         <br />
         <a target="_blank" href="https://github.com/sunnyallana/acm-nuces-web-app">
             <img src="png/projects/coders-cup-registration.png" width="100%" alt="Coders Cup Registration App"/>
@@ -102,90 +185,24 @@ He uses ***Arch*** btw.
           <br>
           <a href="https://github.com/sunnyallana/acm-nuces-web-app" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a> 
+          </a>
         </p>
-        <p>Developed a high-performance event registration application for ACM, achieving remarkable success with over 2,500 users and 900 registrations. Implemented robust security features including Google Captcha V2, Axios protection against XSS and CSRF, and deployed on Azure with a CI/CD pipeline for optimal scalability and performance.</p>
-  </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Divide & Conquer Algorithms Visualiser</h3>
-        <br />
-      <a target="_blank" href="https://github.com/sunnyallana/algorithm-visualizer">
-            <img src="png/projects/algorithm-visualizer.png" width="100%"  alt="Algorithms Visualization Tool"/>
-        </a>
-        <br />
-        <p align="center">
-   <br>
-  <a href="https://github.com/sunnyallana/algorithm-visualizer" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p>Created an interactive Algorithm Visualizer to explore complex algorithms like Integer Multiplication and Closest Pair of Points. Developed step-by-step animations with customizable zoom and pan features, enabling comprehensive visual analysis of algorithmic processes.</p>
+        <p>Built the Coders Cup contest portal in <strong>React + Tailwind</strong> on <strong>Azure Web App</strong> with multi-field client validation and Google reCAPTCHA v2, handling <strong>2,500+ users</strong> and <strong>900+ team registrations</strong> for ACM NUCES. Ranked top-3 on Google for "Coders Cup" keywords with 9,900 page views; shipped via GitHub Actions CI/CD and awarded <strong>Special Mention</strong> for leading platform development.</p>
     </td>
-  </tr>
-
-<tr>
-  <td width="50%" valign="top">
-      <h3 align="center">ConvoNest</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Automated Invoice Processor · Python OCR</h3>
         <br />
-        <a target="_blank" href="https://github.com/sunnyallana/convo-nest">
-            <img src="png/projects/convo-nest.png" width="100%" alt="Topic-based Rooms App"/>
+        <a target="_blank" href="https://github.com/sunnyallana/invoice-processor">
+            <img src="png/projects/invoice-wizard.png" width="100%" alt="Automated Invoice Processor"/>
         </a>
         <br />
         <p align="center">
           <br>
-          <a href="https://github.com/sunnyallana/convo-nest" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-          </a> 
-        </p>
-        <p>Utilized <strong>Django framework</strong> to develop ConvoNest, incorporating <strong>SQLite</strong> for data management. Enabled users to create topic-based rooms and communicate with others. Resulted in the creation of a dynamic platform where users can engage in discussions on various topics within dedicated rooms, fostering community interaction and knowledge sharing</p>
-</td>
-    <td width="50%" valign="top">
-      <h3 align="center">DealerTrack Insights</h3>
-        <br />
-      <a target="_blank" href="https://github.com/sunnyallana/dealerTrack-insights">
-            <img src="png/projects/dealerTrack-insights.png" width="100%"  alt="Sentiment Analysis of Reviews"/>
-        </a>
-        <br />
-        <p align="center">
-   <br>
-  <a href="https://github.com/sunnyallana/dealerTrack-insights" target="_blank">
+  <a href="https://github.com/sunnyallana/invoice-processor" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Leveraged <strong>Django</strong> with <strong>SQLite</strong> for efficient data management, while integrating <strong>Cloudant</strong> and <strong>IBM Watson API</strong>. Deployed using <strong>Kubernetes</strong> on <strong>IBM Cloud</strong> for scalable performance. Enhanced user engagement by enabling review submission and viewing functionalities, ensuring accurate sentiment analysis with <strong>IBM Watson</strong>.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Invoice Wizard</h3>
-        <br />
-        <a target="_blank" href="https://github.com/sunnyallana/invoice-wizard">
-            <img src="png/projects/invoice-wizard.png" width="100%" alt="OCR with Python"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/sunnyallana/invoice-wizard" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-      </p>
-        <p>The Invoice Wizard is a desktop application implemented in <strong>Python</strong> that makes use of <strong>PyQt5</strong>, <strong>Pillow</strong>, and <strong>Pytesseract</strong> libraries allowing users to import invoice images, utilize Optical Character Recognition (OCR) to extract relevant information, and export the extracted data into a CSV file.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">SmartTrack Attendance Management</h3>
-        <br />
-      <a target="_blank" href="https://github.com/sunnyallana/smartTrack">
-            <img src="png/projects/smartTrack.png" width="100%"  alt="SmartTrack Attendance Manager"/>
-        </a>
-        <br />
-        <p align="center">
-   <br>
-        <a href="https://github.com/sunnyallana/smartTrack" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-        <p>Developed SmartTrack Attendance Management System using <strong>Esp32 DevKit</strong>, <strong>RFID scanner</strong>, and <strong>OLED display</strong> for real-time attendance tracking, with a robust web interface powered by <strong>SQL</strong>, <strong>PHP</strong>, <strong>HTML</strong>, and <strong>CSS</strong> for efficient administration and secure data storage.</p>
+        <p>AI-powered OCR tool using <strong>Python</strong>, <strong>PyTesseract</strong>, <strong>Matplotlib</strong>, and <strong>PyQt5</strong> to parse <strong>100+ invoice formats</strong> at <strong>93% accuracy</strong>, reducing manual processing time by <strong>40%</strong> through automated extraction and validation.</p>
     </td>
   </tr>
 </table>
