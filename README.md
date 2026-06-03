@@ -232,7 +232,7 @@ impl Developer for SunnyShabanAli {
 <div align="center">
 
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://metrics.lecoq.io/sunnyallana?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata" width="95%" alt="GitHub metrics"/>
+    <img src="https://metrics.lecoq.io/sunnyallana?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8" width="95%" alt="GitHub metrics"/>
   </a>
 
   <!--
