@@ -106,7 +106,7 @@ impl Developer for SunnyShabanAli {
   <table bordercolor="#66b2b2">
 
 <tr>
-  <td colspan="2" valign="top">
+  <td width="50%" valign="top">
       <h3 align="center">Scribe · The Collaborative LaTeX Editor You Can Actually Own</h3>
         <br />
         <a target="_blank" href="https://github.com/sunnyallana/scribe">
@@ -121,10 +121,8 @@ impl Developer for SunnyShabanAli {
         </p>
         <p>Self-hostable <strong>Overleaf alternative</strong> where one <strong>Rust (Axum)</strong> binary runs the whole API: REST routes, a <strong>Yjs CRDT</strong> hub for multi-cursor editing, a <strong>Redis</strong>-backed compile queue, and an AI proxy wired for OpenAI, Anthropic, Gemini, Ollama, LM Studio, or any OpenAI-compatible endpoint. Collaborators get <strong>WebRTC</strong> voice chat right in the editor. The <strong>Tauri 2</strong> desktop bundles the <strong>Tectonic</strong> engine and mirrors projects to <strong>SQLite</strong>, so a clean Windows machine compiles a paper on first launch and offline edits sync back through three-way conflict resolution. Ships as signed MSI/NSIS installers, licensed <strong>AGPL-3.0</strong>.</p>
   </td>
-</tr>
 
-<tr>
-  <td colspan="2" valign="top">
+  <td width = "50%" valign="top">
       <h3 align="center">Agentic Multi-Modal Triage of Citizen Flood Reports at Scale · Final Year Project</h3>
         <br />
         <a target="_blank" href="https://github.com/sunnyallana">
