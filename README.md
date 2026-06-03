@@ -228,30 +228,6 @@ impl Developer for SunnyShabanAli {
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://metrics.lecoq.io/sunnyallana?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8" width="95%" alt="GitHub metrics"/>
-  </a>
-
-  <!--
-  The classic cards below use the public github-readme-stats instance, which is
-  currently rate-limited for everyone (HTTP 503). Uncomment when it recovers,
-  or self-host it: https://github.com/anuraghazra/github-readme-stats
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sunnyallana&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a277ff&icon_color=bb9af7&text_color=c9d1d9&border_color=30363d" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyallana&layout=compact&langs_count=10&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9&border_color=30363d" alt="Top languages"/>
-  -->
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyallana&background=0d1117&border=30363d&ring=a277ff&fire=bb9af7&currStreakLabel=a277ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a277ff&dates=8b949e&mode=daily" alt="GitHub streak"/>
-
-  <br/><br/>
-
-  <!-- Official instance (github-profile-trophy.vercel.app) is suspended (HTTP 402); using a mirror listed in the project README -->
-  <img src="https://trophy.ryglcloud.net/?username=sunnyallana&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
-
   <br/><br/>
 
   <picture>
