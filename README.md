@@ -1,91 +1,107 @@
-![GitHubBanner](https://github.com/sunnyallana/sunnyallana/blob/main/png/githubBannerPng.png?raw=true)
-
----
-<h1 align="center">👨🏻‍💻 About Me</h1>
-
-Sunny Shaban Ali is a **Bachelor of Science in Computer Science (BSCS)** senior student at **FAST NUCES, Karachi**, with a keen focus on **Software Engineering**. His technical repertoire spans **Rust, C/C++, Python, Next.js, and MERN Stack** with hands-on experience across freelance, open-source, academic, and self-initiated projects. 
-
-<br/>
-
-> ### Currently, he is deepening his expertise in **Rust** through practical implementations.
-
-<br/>
-
----
 <div align="center">
-  <h1 align="center">✨ Let's Learn, Grow, & Connect</h1>
-  <div align="center">
-    <a  href="https://www.linkedin.com/in/sunnyallana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/sunnyallana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="mailto:contact.sunnyallana@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a  href="https://discordapp.com/users/sunny.allana#6221"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    <a  href="https://www.instagram.com/imsunnyallana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    
-  </div>
 
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1025,30:6b21a8,70:a277ff,100:c4b5fd&height=230&section=header&text=Sunny%20Shaban%20Ali&fontSize=62&fontColor=f5f3ff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Rustacean%20%F0%9F%A6%80%20%E2%80%A2%20Quantum%20Explorer%20%E2%9A%9B%EF%B8%8F&descSize=18&descAlignY=52" width="100%" alt="header"/>
+
+<a href="https://github.com/sunnyallana">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&repeat=true&width=720&height=60&lines=BSCS+Senior+%40+FAST+NUCES%2C+Karachi;Rust+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+MERN+Stack;Quantum+Computing+%E2%80%A2+Computer+Vision+%E2%80%A2+Cybersecurity;25%2B+Certifications+%E2%80%A2+Open+Source+Contributor;I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sunnyallana" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sunnyallana" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:contact.sunnyallana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discordapp.com/users/sunny.allana#6221"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/imsunnyallana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<img src="https://komarev.com/ghpvc/?username=sunnyallana&style=for-the-badge&color=a277ff&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">⚡ $ whoami</h2>
+
+Senior **BSCS** student at **FAST NUCES, Karachi**, crafting software across **Rust, C/C++, Python, Next.js, and the MERN stack** — with hands-on experience spanning freelance, open-source, academic, and self-initiated projects. Beyond conventional development, he explores **Quantum Computing, Computer Vision, and Cybersecurity** for both learning and fun.
+
+```rust
+struct SunnyShabanAli;
+
+impl Developer for SunnyShabanAli {
+    fn location(&self) -> &str { "Karachi, Pakistan 🇵🇰" }
+    fn education(&self) -> &str { "BSCS Senior @ FAST NUCES" }
+    fn stack(&self) -> Vec<&str> { vec!["Rust", "C/C++", "Python", "Next.js", "MERN"] }
+    fn obsessions(&self) -> [&str; 3] { ["Quantum Computing ⚛️", "Computer Vision 👁️", "Cybersecurity 🔐"] }
+    fn currently(&self) -> &str { "Deepening Rust — one segfault-free build at a time 🦀" }
+    fn os(&self) -> &str { "Arch Linux (btw) 🐧" }
+}
+```
+
+<div align="center">
+
+| 🏅 Highlight | 📌 Detail |
+|:---|:---|
+| 🥈 **1st Runner-Up — HackOps'25** | AI skincare analyzer · 83.8% mAP@50 |
+| 💎 **Emerald Contributor** | Microsoft Azure DB for MySQL |
+| 🧠 **Subject Matter Expert** | MongoDB — certification content reviewer |
+| 🚀 **Postman Student Leader** | Championing API literacy |
+| 🏭 **Industrial Impact** | Replaced a €60K vendor solution at Dawlance with LineSentry |
+| ⭐ **Open Source** | ML4W Hyprland Starter (880+ ★) — 2 PRs merged upstream |
+| 📜 **25+ Certifications** | Microsoft · IBM · MongoDB · Postman · GitHub |
+
+<br/>
+
+*Driven by curiosity and impact — always up for collaborations that **build, break, and refine** systems.*
+
+</div>
+
 <br/>
 
 ---
 
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
 <div align="center">
-  <h1>🛠 Technical Skills</h1>
-    <img width="40%" align="right"  src="https://github.com/sunnyallana/sunnyallana/blob/main/png/techImagePng.png?raw=true">
 
-Beyond conventional development, Sunny thrives in **Quantum Computing, Computer Vision, and Cybersecurity**—domains he explores passionately for both learning and fun. A lifelong learner, he holds **25+ certifications** from industry leaders including **Microsoft, MongoDB, Postman, and GitHub**.
+#### 💻 Languages
 
-As an **Emerald Contributor** for Microsoft Azure DB for MySQL, **Subject Matter Expert (SME)** for MongoDB reviewing certification content, and **Postman Student Leader** championing API literacy, Sunny actively shapes the tech ecosystem. Driven by curiosity and impact, he embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,py,js&theme=dark" alt="Languages"/>
 
+#### 🎨 Frontend
 
-Driven by curiosity and impact, Sunny embraces collaborative opportunities to build, break, and refine systems—always with an eye on innovation.
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,react,redux,nextjs&theme=dark" alt="Frontend"/>
+
+#### ⚙️ Backend · AI · Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,tensorflow,opencv,sklearn&theme=dark" alt="Backend and AI"/>
+
+#### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,azure,vercel&theme=dark" alt="Databases and Cloud"/>
+
+#### 🔧 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,github,postman,raspberrypi,vscode,arch,linux&theme=dark" alt="DevOps and Tools"/>
+
+</div>
 
 <br/>
 
-He uses ***Arch*** btw.
+<details>
+<summary><b>🖥️ The Battlestation — Arch + Hyprland (btw)</b></summary>
+<br/>
+
 ![sunny-allana-arch-linux](https://github.com/user-attachments/assets/29cd3471-fcab-42ff-8f6d-bde8d9101fbe)
-
 
 ![2025-02-03_20-04-32](https://github.com/user-attachments/assets/b15ee95f-d828-45e7-86f6-fe3b75aa014e)
 
-<br/>
-
-  <p align="center"> 
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=092E20&logoColor=44b78a&logo=django"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/> 
-  <img alt="Git" src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git"/>
-  <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img alt="Docker" src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker"/>
-  <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </p>
-
-<br/>
-
-  Seeking opportunities to advance web development skills, delve into AI, and contribute to open-source initiatives.
+</details>
 
 <br/>
 
 ---
-  <h1 align="center">💻 Some Of My Projects</h1>
+
+<h2 align="center">🚀 Featured Builds</h2>
 
   <table bordercolor="#66b2b2">
 
@@ -207,70 +223,104 @@ He uses ***Arch*** btw.
   </tr>
 </table>
 
-  ---
+<br/>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <h1>🥇 Some Of My Badges</h1>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sunnyallana&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a277ff&icon_color=bb9af7&text_color=c9d1d9&border_color=30363d" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyallana&layout=compact&langs_count=10&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9&border_color=30363d" alt="Top languages"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyallana&background=0d1117&border=30363d&ring=a277ff&fire=bb9af7&currStreakLabel=a277ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a277ff&dates=8b949e" alt="GitHub streak"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnyallana&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnyallana/sunnyallana/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnyallana/sunnyallana/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/sunnyallana/sunnyallana/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </picture>
+
+  <br/><br/>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnyallana&bg_color=0d1117&color=a277ff&line=bb9af7&point=c9d1d9&area=true&area_color=a277ff&hide_border=true" width="95%" alt="Contribution graph"/>
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>🥇 Certifications & Badges</h2>
 
   <a href="https://www.credly.com/badges/f3d58f4b-267e-43d1-b028-f2895456b5bc/public_url">
-      <img width="123px" height="123px" src="png/badges/quantum_information_basics.png" alt="IBM Quantum Basics">
+      <img width="123px" height="123px" src="png/badges/quantum-information-basics.png" alt="IBM Quantum Basics">
   </a>
-
+  <a href="https://www.credly.com/badges/0dc4e5d5-9206-417d-af5e-3623613cff2b">
+      <img width="123px" height="123px" src="png/badges/quantum-machine-learning.png" alt="IBM Quantum Machine Learning">
+  </a>
+  <a href="https://www.credly.com/badges/6d4891f3-ca73-4c4d-a414-673a2c316a6b">
+      <img width="123px" height="123px" src="png/badges/fundamentals-of-quantum-algorithms.png" alt="IBM Fundamentals of Quantum Algorithms">
+  </a>
   <a href="https://www.credly.com/badges/9cbee0d2-3508-4e38-a488-99538bf4e471/public_url">
-      <img width="123px" height="123px" src="png/badges/GitHub_foundations.png" alt="GitHub Foundations">
+      <img width="123px" height="123px" src="png/badges/github-foundations.png" alt="GitHub Foundations">
   </a>
-  
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/sunny-shaban-ali/A3737F7CB799EA99?sharingId=3082081C59931CEC">
       <img width="123px" height="123px" src="png/badges/microsoft-certified-fundamentals-badge.png" alt="Microsoft Certified AI Fundamentals">
   </a>
-  
   <a href="https://learn.mongodb.com/c/6AD1UI_OT_aJ4S4FU1z3Lw">
-      <img width="123px" height="123px" src="png/badges/MongoDB_Certified_Badge.png" alt="MongoDB Associate Developer Badge">
+      <img width="123px" height="123px" src="png/badges/mongodb-certified-badge.png" alt="MongoDB Associate Developer Badge">
   </a>
   <a href="https://api.badgr.io/public/assertions/njHKqJJISj2qeCSh7LrpCQ?identity__email=study.sunnyallana%40gmail.com">
-      <img width="123px" height="123px" src="png/badges/postman_student_leader.png" alt="Postman Student Leader Badge">
+      <img width="123px" height="123px" src="png/badges/postman-student-leader.png" alt="Postman Student Leader Badge">
   </a>
   <a href="https://api.badgr.io/public/assertions/4NvkIsOXTy-wKBKlK8vfVQ?identity__email=study.sunnyallana%40gmail.com">
-      <img width="123px" height="123px" src="png/badges/postman_student_expert.png" alt="Postman Student Expert Badge">
+      <img width="123px" height="123px" src="png/badges/postman-student-expert.png" alt="Postman Student Expert Badge">
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/SunnyShabanAli-6232/9FXE4M6U?sharingId=3082081C59931CEC">
-      <img width="123px" height="123px" src="png/badges/Microsoft_AiSkillsChallenge_Badge.png" alt="Microsoft Ai Skills Challeneg">
+      <img width="123px" height="123px" src="png/badges/microsoft-ai-skills-challenge-badge.png" alt="Microsoft Ai Skills Challeneg">
   </a>
   <a href="https://www.credly.com/badges/df0dba9b-e56d-482a-a652-255d8be6fd8b">
-      <img width="123px" height="123px" src="png/badges//MicrosoftAzureDBForMySQL_EmeraldBadge.png" alt="Microsoft Azure DB For MySQL Emerald Contributor Badge">
+      <img width="123px" height="123px" src="png/badges/microsoft-azure-db-for-mysql-emerald-badge.png" alt="Microsoft Azure DB For MySQL Emerald Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/d14372c6-5828-4eab-8600-2c2cc01be06f">
-      <img width="123px" height="123px" src="png/badges/MicrosoftAzureDBForMySQL_GoldBadge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
+      <img width="123px" height="123px" src="png/badges/microsoft-azure-db-for-mysql-gold-badge.png" alt="Microsoft Azure DB For MySQL Gold Contributor Badge">
   </a>
   <a href="https://www.credly.com/badges/ab381004-8711-49b3-bd8b-11fe778d83e5">
-      <img width="123px" height="123px" src="png/badges/IBM_FullStack_Badge.png" alt="IBM Full Stack Badge">
+      <img width="123px" height="123px" src="png/badges/ibm-full-stack-badge.png" alt="IBM Full Stack Badge">
   </a>
   <a href="https://www.credly.com/badges/0be18a5e-43a3-4b25-a689-7ad630578ff7">
-      <img width="123px" height="123px" src="png/badges/IBM_DataAnalyst_Badge.png" alt="IBM Data Analyst Badge">
+      <img width="123px" height="123px" src="png/badges/ibm-data-analyst-badge.png" alt="IBM Data Analyst Badge">
   </a>
   <a href="https://www.credly.com/badges/ae081eb5-404e-4e5a-8a1f-6f18de7b520e">
-      <img width="123px" height="123px" src="png/badges/IBM_AppliedDataScience_Badge.png" alt="IBM Applied Data Science Badge">
+      <img width="123px" height="123px" src="png/badges/ibm-applied-data-science-badge.png" alt="IBM Applied Data Science Badge">
   </a>
 </div>
 
-  ---
-  
-  # ⚙️ GitHub Analytics
-    
-  <table>
-    <tr>
-     <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=sunnyallana&show_icons=true&theme=dark" /></td>
-      <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyallana&layout=compact&theme=dark" /></td>
-    </tr>
-  </table>
-
-  <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyallana&layout=compact&theme=dark" alt="sunnyallana"/></p>
-  </div>
+<br/>
 
 ---
-  # 📈 Contribution Graph  
-  [![Sunny Allana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunnyallana&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day"/>
+
+<br/>
+
+<samp>loop { build(); break_things(); refine(); } // 💜 on Arch, btw</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,30:a277ff,70:6b21a8,100:1a1025&height=140&section=footer" width="100%" alt="footer"/>
+
 </div>
