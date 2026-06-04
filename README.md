@@ -83,6 +83,12 @@ impl Developer for SunnyShabanAli {
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,github,postman,raspberrypi,vscode,arch,linux&theme=dark" alt="DevOps and Tools"/>
 
+#### 🧪 Testing & QA
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/>
+
 </div>
 
 <br/>
