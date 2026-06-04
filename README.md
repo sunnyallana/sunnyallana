@@ -45,7 +45,7 @@ impl Developer for SunnyShabanAli {
 | 💎 **Emerald Contributor** | Microsoft Azure DB for MySQL |
 | 🧠 **Subject Matter Expert** | MongoDB — certification content reviewer |
 | 🚀 **Postman Student Leader** | Championing API literacy |
-| 🏭 **Industrial Impact** | Replaced a €60K vendor solution at Dawlance with LineSentry |
+| 🏭 **Top Intern · Golden Key — Dawlance** | LineSentry replaced a €60K vendor solution · live on 4 machines |
 | ⭐ **Open Source** | ML4W Hyprland Starter (880+ ★) — 2 PRs merged upstream |
 | 📜 **25+ Certifications** | Microsoft · IBM · MongoDB · Postman · GitHub |
 
@@ -155,7 +155,7 @@ impl Developer for SunnyShabanAli {
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
           </a>
         </p>
-        <p>Real-time analytics platform monitoring <strong>OEE</strong>, <strong>MTTR</strong>, and <strong>MTBF</strong> across factory machinery via <strong>Chart.js</strong> dashboards. Ingests live PLC signals through <strong>Raspberry Pi</strong> (<strong>S7 protocol in Rust</strong>) and aggregates via <strong>MongoDB</strong> pipelines, with drag-and-drop department layouts, intelligent breakdown alerts, and automated email-based analytics reporting. Replaced legacy SAP and a €60K vendor solution at Dawlance.</p>
+        <p>Real-time <strong>OEE / MTTR / MTBF</strong> analytics platform, a vendor-neutral replacement for costly legacy industrial monitoring (<strong>€60K saved</strong>), live on 4 injection-molding and assembly-line machines at Dawlance and designed to scale to hundreds across multiple PLCs. Per-PLC <strong>Tokio</strong> daemons on <strong>Raspberry Pi</strong> read Siemens S7 bytes via <strong>snap7-rs</strong> and POST hex frames to a <strong>Rust (Axum)</strong> backend that decodes Q{byte}.{bit} pins through a multi-PLC registry, runs a 4-state machine, and persists to <strong>MongoDB</strong> with timezone bucketed aggregations. <strong>React 18</strong> dashboards stream over <strong>Socket.IO</strong> with <strong>Recharts</strong> visualizations, guided machine setup, and SAP-linked stoppage classification; secured with JWT, reCAPTCHA, rate limiting, and RBAC, shipped via <strong>Docker Compose</strong>.</p>
   </td>
     <td width="50%" valign="top">
       <h3 align="center">Trainiac · Agentic AI Fitness at MazikGlobal</h3>
