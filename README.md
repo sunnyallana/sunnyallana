@@ -83,12 +83,6 @@ impl Developer for SunnyShabanAli {
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,github,postman,raspberrypi,vscode,arch,linux&theme=dark" alt="DevOps and Tools"/>
 
-#### 🧪 Testing & QA
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/>
-
 </div>
 
 <br/>
@@ -241,6 +235,24 @@ impl Developer for SunnyShabanAli {
   </a>
       </p>
         <p>AI-powered OCR tool using <strong>Python</strong>, <strong>PyTesseract</strong>, <strong>Matplotlib</strong>, and <strong>PyQt5</strong> to parse <strong>100+ invoice formats</strong> at <strong>93% accuracy</strong>, reducing manual processing time by <strong>40%</strong> through automated extraction and validation.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AlgoViz · Interactive Algorithm Visualizer</h3>
+        <br />
+        <a target="_blank" href="https://github.com/sunnyallana/algorithm-visualizer">
+            <img src="png/projects/algorithm-visualizer.png" width="100%" alt="AlgoViz Interactive Algorithm Visualizer"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+          <a href="https://github.com/sunnyallana/algorithm-visualizer" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+        </p>
+        <p>Interactive visualizer for <strong>27 classic algorithms</strong> across sorting, searching, geometry, math — <strong>and quantum computing</strong> — running one step at a time with synced pseudocode highlighting, plain-English narration of every move, live operation counters, and full timeline control at 1–25 steps per second. Every algorithm is a pure step generator driven by a single playback engine, built with <strong>React 18 + Vite + Tailwind</strong>. The quantum suite is an <strong>exact state-vector simulation</strong>: a clickable Bloch sphere, interfering amplitude bars, and Shor's genuine QFT spectrum. A verification harness asserts every generator against reference implementations with <strong>340k+ checks</strong>.</p>
     </td>
   </tr>
 </table>
